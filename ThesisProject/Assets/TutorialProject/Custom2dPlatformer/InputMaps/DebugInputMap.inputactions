@@ -1,0 +1,34 @@
+{
+    "name": "DebugInputMap",
+    "maps": [
+        {
+            "name": "Debug",
+            "id": "b6d8c89e-aa0a-4f22-95de-41ebe65c2222",
+            "actions": [
+                {
+                    "name": "Reset",
+                    "type": "Value",
+                    "id": "3bf82807-de8d-4f3e-b753-4832c4158be3",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "Press",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "83811efa-e1d2-4750-a4d7-e14eb7cf0c10",
+                    "path": "<Keyboard>/backspace",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Reset",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
