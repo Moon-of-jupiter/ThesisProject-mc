@@ -432,6 +432,63 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 32.505, y: 62.489, z: 64.612}
+--- !u!1001 &551561495
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2586128551419403778, guid: f6336d4ecdfd6af44a82c4b502627170, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.898947
+      objectReference: {fileID: 0}
+    - target: {fileID: 2586128551419403778, guid: f6336d4ecdfd6af44a82c4b502627170, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2586128551419403778, guid: f6336d4ecdfd6af44a82c4b502627170, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2586128551419403778, guid: f6336d4ecdfd6af44a82c4b502627170, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.42214417
+      objectReference: {fileID: 0}
+    - target: {fileID: 2586128551419403778, guid: f6336d4ecdfd6af44a82c4b502627170, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2586128551419403778, guid: f6336d4ecdfd6af44a82c4b502627170, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.9065288
+      objectReference: {fileID: 0}
+    - target: {fileID: 2586128551419403778, guid: f6336d4ecdfd6af44a82c4b502627170, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2586128551419403778, guid: f6336d4ecdfd6af44a82c4b502627170, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2586128551419403778, guid: f6336d4ecdfd6af44a82c4b502627170, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 130.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 2586128551419403778, guid: f6336d4ecdfd6af44a82c4b502627170, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8105695270291317728, guid: f6336d4ecdfd6af44a82c4b502627170, type: 3}
+      propertyPath: m_Name
+      value: ArmorStandEnemy Variant (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f6336d4ecdfd6af44a82c4b502627170, type: 3}
 --- !u!1 &754697683
 GameObject:
   m_ObjectHideFlags: 0
@@ -1508,3 +1565,4 @@ SceneRoots:
   - {fileID: 978270212}
   - {fileID: 1502165972}
   - {fileID: 1654668103}
+  - {fileID: 551561495}
